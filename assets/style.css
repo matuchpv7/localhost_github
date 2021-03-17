@@ -1,0 +1,126 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Calibri, Open-Sans;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: grey;
+}
+header{
+  width: 100%;
+  display: block;
+}
+.git{
+  justify-content: center;
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  position: center;
+}
+.h2gl{
+  justify-content: center;
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  position: center;
+  background-color: #94b8b8;
+  border: 2px purple;
+}
+
+.tomek{
+  max-width: 1000px;
+  margin: 0 auto;
+  background: linear-gradient(to top, #ccffff 0%, #00cc66 100%);
+}
+.pracow{
+  text-align: center;
+  justify-content: center;
+  position: center;
+  display:flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.navigator{
+  position: center;
+}
+.h2tm{
+  background-color: #00cc99;
+  color: white;
+  padding: 7px;
+  text-align: center;
+  border-bottom:1px purple;
+}
+nav{
+  background-color: darkcyan;
+}
+a.nav1 {
+  display: inline-block;
+  justify-content: center;
+  width: 15%;
+  padding: 15px 25px;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  border:2px solid black;
+}
+a.nav1:hover{
+  background-color: crimson;
+}
+a.nav2 {
+  display: inline-block;
+  justify-content: center;
+  width: 33%;
+  padding: 10px 15px;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  border:2px solid black;
+}
+a.nav2:hover{
+  background-color: Orange;
+}
+a.nav3 {
+  display: inline-block;
+  justify-content: center;
+  width: 19%;
+  padding: 10px 15px;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  border:2px solid black;
+}
+a.nav3:hover{
+  background-color: Orange;
+}
+.orga{
+  background-color: black;  
+}
+.orga1{
+  background-color: black;  
+}
+.active {
+      background-color: crimson;
+}
+.tekst{
+    display:flex;
+    text-align: center;
+    flex-direction: column;
+}
+h3{
+  border:2px solid purple;
+  text-decoration: none;
+  text-align: center;
+  background-color: #00cc99;
+  color: purple;
+}
+footer{
+  height: 40px;
+  background-color: darkcyan;
+  color: white;
+  line-height: 40px;
+  text-align: center;
+  margin-top: 10px;
+}
