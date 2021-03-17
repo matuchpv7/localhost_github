@@ -30,7 +30,7 @@
             require_once("assets/config.php");   }
             echo("<li> SERVER password: ".$_SERVER['pass']);
             ?>
-        <h2 class="h2tm">Tomasz Msdajjavhfgtuszek</h2>
+        <h2 class="h2tm">Tomasz MsdajjhgfHavhfgtuszek</h2>
               <div class="pracow">
               <?php
                 echo("<h1>Godzina i data:</h1>");
